@@ -25,7 +25,7 @@ await build({
   },
   package: {
     // package.json properties
-    name: "o-son",
+    name: "@ponomarevlad/o-son",
     version: Deno.args[0],
     description: "oson structured object notation",
     license: "MIT",
